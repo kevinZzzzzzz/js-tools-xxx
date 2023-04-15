@@ -9,5 +9,5 @@
 -->
 
 ```bash
-npm i js-tools-xxx
+npm i js-tools-xxx 
 ```
